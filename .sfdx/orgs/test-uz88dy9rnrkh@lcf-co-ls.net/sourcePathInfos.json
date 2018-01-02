@@ -1,0 +1,3257 @@
+[
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1514078500682,
+            "changeTime": 1514860171104,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1514078500682,
+            "changeTime": 1514860171103,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 384,
+            "modifiedTime": 1514080535505,
+            "changeTime": 1514860171103,
+            "contentHash": "9aaf87f640f003df4182ef27a76f29ffbf7c9202",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1514078500682,
+            "changeTime": 1514860171066,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 1184,
+            "modifiedTime": 1514079260038,
+            "changeTime": 1514860170805,
+            "contentHash": "b75afd6bd253036bcbf4fa21e1196e07d9042113",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/ApplicationsController.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/ApplicationsController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 788,
+            "modifiedTime": 1514079565817,
+            "changeTime": 1514860170778,
+            "contentHash": "5c921f291c3f23967014e9890cd2a46be551b150",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/ApplicationsController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/ApplicationsController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 173,
+            "modifiedTime": 1513512477878,
+            "changeTime": 1514860170781,
+            "contentHash": "347d448172840cfbabc1b5d2ee5d3d1d84f0f15a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/COF_Config.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/COF_Config.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 856,
+            "modifiedTime": 1513860570164,
+            "changeTime": 1514860170794,
+            "contentHash": "da95de601ab6233624a4d26cbbfaa3be6dec51b4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/COF_Config.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/COF_Config.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 173,
+            "modifiedTime": 1513639965050,
+            "changeTime": 1514860170776,
+            "contentHash": "347d448172840cfbabc1b5d2ee5d3d1d84f0f15a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/COF_DatabaseQuery.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/COF_DatabaseQuery.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1739,
+            "modifiedTime": 1513642427833,
+            "changeTime": 1514860170772,
+            "contentHash": "6f3474fda17e38b44995355941e4c77f18464a10",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/COF_DatabaseQuery.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/COF_DatabaseQuery.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 173,
+            "modifiedTime": 1514018371532,
+            "changeTime": 1514860170784,
+            "contentHash": "347d448172840cfbabc1b5d2ee5d3d1d84f0f15a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/COF_Field.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/COF_Field.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2171,
+            "modifiedTime": 1514081776697,
+            "changeTime": 1514860170749,
+            "contentHash": "fa2fb972bf6c78e7029f64e3c8f0efeac26b8ada",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/COF_Field.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/COF_Field.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 173,
+            "modifiedTime": 1513636830850,
+            "changeTime": 1514860170798,
+            "contentHash": "347d448172840cfbabc1b5d2ee5d3d1d84f0f15a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/COF_Form.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/COF_Form.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 457,
+            "modifiedTime": 1513813463951,
+            "changeTime": 1514860170765,
+            "contentHash": "46bab19722b8fd9db41f835d271e6d5a329fa41a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/COF_Form.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/COF_Form.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 173,
+            "modifiedTime": 1513636825706,
+            "changeTime": 1514860170764,
+            "contentHash": "347d448172840cfbabc1b5d2ee5d3d1d84f0f15a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/COF_PageController.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/COF_PageController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1541,
+            "modifiedTime": 1514855660457,
+            "changeTime": 1514860170751,
+            "contentHash": "70aa9a73b6b2d61da39aea90888cb74ea5674ff6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/COF_PageController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/COF_PageController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 173,
+            "modifiedTime": 1513639016817,
+            "changeTime": 1514860170790,
+            "contentHash": "347d448172840cfbabc1b5d2ee5d3d1d84f0f15a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/COF_QuestionSet.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/COF_QuestionSet.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1437,
+            "modifiedTime": 1514843540448,
+            "changeTime": 1514860170782,
+            "contentHash": "edce172be118e6f492d64a7328af82025046fa9e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/COF_QuestionSet.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/COF_QuestionSet.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 173,
+            "modifiedTime": 1513636824714,
+            "changeTime": 1514860170779,
+            "contentHash": "347d448172840cfbabc1b5d2ee5d3d1d84f0f15a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/COF_Section.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/COF_Section.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 450,
+            "modifiedTime": 1514071480267,
+            "changeTime": 1514860170754,
+            "contentHash": "31cfc744959e796808ec686dfa1f5f237df65ac9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/COF_Section.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/COF_Section.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 173,
+            "modifiedTime": 1513636810686,
+            "changeTime": 1514860170753,
+            "contentHash": "347d448172840cfbabc1b5d2ee5d3d1d84f0f15a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/LoginController.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/LoginController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 33,
+            "modifiedTime": 1513511564474,
+            "changeTime": 1514860170760,
+            "contentHash": "a6c4d7412cbf621cee21dd9be3c997a4bcb8c38b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/LoginController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/LoginController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 173,
+            "modifiedTime": 1513511613516,
+            "changeTime": 1514860170800,
+            "contentHash": "347d448172840cfbabc1b5d2ee5d3d1d84f0f15a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/NewController.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/NewController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 535,
+            "modifiedTime": 1513816248995,
+            "changeTime": 1514860170774,
+            "contentHash": "7ec8316fdc82f24223d262e9422518b910bbd098",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/NewController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/NewController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 173,
+            "modifiedTime": 1513809348485,
+            "changeTime": 1514860170769,
+            "contentHash": "347d448172840cfbabc1b5d2ee5d3d1d84f0f15a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/Query.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/Query.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1840,
+            "modifiedTime": 1514858924480,
+            "changeTime": 1514860170797,
+            "contentHash": "85697dcc6f00b0b6c44afd2bb651414a61c979ea",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/Query.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/Query.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 173,
+            "modifiedTime": 1513471528434,
+            "changeTime": 1514860170805,
+            "contentHash": "347d448172840cfbabc1b5d2ee5d3d1d84f0f15a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/QuestionsController.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/QuestionsController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 9341,
+            "modifiedTime": 1514859939631,
+            "changeTime": 1514860170792,
+            "contentHash": "2da53fa769839f26c34897fa98b76c831aef8efb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/QuestionsController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/QuestionsController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 173,
+            "modifiedTime": 1513378247170,
+            "changeTime": 1514860170759,
+            "contentHash": "347d448172840cfbabc1b5d2ee5d3d1d84f0f15a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/RegisterController.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/RegisterController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 36,
+            "modifiedTime": 1513511608203,
+            "changeTime": 1514860170795,
+            "contentHash": "a0f7f96bbd1b7678f4af8325b329ac5823971c70",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/RegisterController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/RegisterController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 173,
+            "modifiedTime": 1513511615915,
+            "changeTime": 1514860170786,
+            "contentHash": "347d448172840cfbabc1b5d2ee5d3d1d84f0f15a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/SectionsController.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/SectionsController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 853,
+            "modifiedTime": 1514855967483,
+            "changeTime": 1514860170804,
+            "contentHash": "a29740dae738108212ab3715be0c430a8682915f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/SectionsController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/SectionsController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 173,
+            "modifiedTime": 1513811340479,
+            "changeTime": 1514860170802,
+            "contentHash": "347d448172840cfbabc1b5d2ee5d3d1d84f0f15a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/StartController.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/StartController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 931,
+            "modifiedTime": 1514856977800,
+            "changeTime": 1514860170756,
+            "contentHash": "a0f176d562e7db59951113aad39a85e55c2b88b6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/StartController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/StartController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 173,
+            "modifiedTime": 1514067699634,
+            "changeTime": 1514860170787,
+            "contentHash": "347d448172840cfbabc1b5d2ee5d3d1d84f0f15a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/SummaryController.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/SummaryController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1752,
+            "modifiedTime": 1514859590739,
+            "changeTime": 1514860170770,
+            "contentHash": "b39d1dec0fde0ab60060591e4d637dbece03b94c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/SummaryController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/SummaryController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 173,
+            "modifiedTime": 1513458880120,
+            "changeTime": 1514860170762,
+            "contentHash": "347d448172840cfbabc1b5d2ee5d3d1d84f0f15a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/Template.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/Template.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1345,
+            "modifiedTime": 1513477080189,
+            "changeTime": 1514860170789,
+            "contentHash": "cc86b860f622fbb2d4f9104b0f7ace516d353646",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/Template.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/classes/Template.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 173,
+            "modifiedTime": 1513415213620,
+            "changeTime": 1514860170767,
+            "contentHash": "347d448172840cfbabc1b5d2ee5d3d1d84f0f15a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/flexipages",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1514080535505,
+            "changeTime": 1514860170807,
+            "contentHash": "851dd73fff4e3904c826957b3fcc48bc536aaf10",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/flexipages/Form_LCF_Full_Application_1_0_Record_Page.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/flexipages/Form_LCF_Full_Application_1_0_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1233,
+            "modifiedTime": 1514080535505,
+            "changeTime": 1514860170807,
+            "contentHash": "8ae96f4c80ed1cca6d206ab7ac04c50fe77ef5e3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/layouts",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1514083632989,
+            "changeTime": 1514860171058,
+            "contentHash": "8fa39fa52ca615a6d52ed3392aca6047ba51f386",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/layouts/Application__c-Application Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/layouts/Application__c-Application Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2368,
+            "modifiedTime": 1514079481398,
+            "changeTime": 1514860171058,
+            "contentHash": "3963a2a323d561684964138b20cc5b7b34e6c136",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/layouts/Form_LCF_Full_App_1__c-Form LCF Full Application 1%2E0 Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/layouts/Form_LCF_Full_App_1__c-Form LCF Full Application 1%2E0 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 15327,
+            "modifiedTime": 1514857436352,
+            "changeTime": 1514860171057,
+            "contentHash": "1d23608f295d41fa12ab487959ac64b359e5c38a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/layouts/Form_LCF_Outcome_1__c-Form LCF Full Application - Outcome 1%2E0 Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/layouts/Form_LCF_Outcome_1__c-Form LCF Full Application - Outcome 1%2E0 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3094,
+            "modifiedTime": 1514857436334,
+            "changeTime": 1514860171055,
+            "contentHash": "71c813e8f3cb4ff9135fbdefb39ab024b4310c3c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1514083632982,
+            "changeTime": 1514860171050,
+            "contentHash": "2f0bf67c6c200a2130dd751421fcf046e9282449",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Application__c",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Application__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1514079397720,
+            "changeTime": 1514860171050,
+            "contentHash": "1e1b3bc66d750aedd99069f2f05234c243ba4a04",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Application__c/Application__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Application__c/Application__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2135,
+            "modifiedTime": 1514078821947,
+            "changeTime": 1514860171050,
+            "contentHash": "25f304927e230319bcf1962f9bba778b81d4a7e3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Application__c/fields",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Application__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1514079481394,
+            "changeTime": 1514860171049,
+            "contentHash": "98a8f5445f85944f440797b9fc1e54e9f9a27721",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Application__c/fields/identifier__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Application__c/fields/identifier__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 336,
+            "modifiedTime": 1514079397722,
+            "changeTime": 1514860171047,
+            "contentHash": "a90ad4a798ec99d85ed0dadb9d56d2220b66f736",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Application__c/fields/theme__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Application__c/fields/theme__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1755,
+            "modifiedTime": 1514079481394,
+            "changeTime": 1514860171048,
+            "contentHash": "40482d3b40ee5ab8343a8277660bd31b8704a31d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1513988349877,
+            "changeTime": 1514860171044,
+            "contentHash": "c8e3e34786219d7582b2f0fe0080bad80c1ab481",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/Form_LCF_Full_App_1__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/Form_LCF_Full_App_1__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2507,
+            "modifiedTime": 1514081008116,
+            "changeTime": 1514860170921,
+            "contentHash": "5f7fa9846f03ee72d697b0e51b75d58a0275efcc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 2336,
+            "modifiedTime": 1514857436326,
+            "changeTime": 1514860171044,
+            "contentHash": "a3e7532f0df3e37ef5a135bde291e3d1a435c460",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/application__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/application__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 557,
+            "modifiedTime": 1514078895812,
+            "changeTime": 1514860171012,
+            "contentHash": "cf74b7a14293836ebd43c7b5db89a820af15f5d5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/de_declaration__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/de_declaration__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 414,
+            "modifiedTime": 1513995743145,
+            "changeTime": 1514860170938,
+            "contentHash": "b615be6ff4493b442db208c95a73db0be44f6186",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ev_evaluation_commissioning_progress__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ev_evaluation_commissioning_progress__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 513,
+            "modifiedTime": 1513995743146,
+            "changeTime": 1514860170934,
+            "contentHash": "12b75e4089bdf8ffdcd6c03619f8304186f2fa1f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ev_evaluation_funding__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ev_evaluation_funding__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 467,
+            "modifiedTime": 1513995743146,
+            "changeTime": 1514860170970,
+            "contentHash": "011a5b98cd60366611d22206773c4f83d285da11",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ev_evaluation_funding_allocated__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ev_evaluation_funding_allocated__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 953,
+            "modifiedTime": 1513995743147,
+            "changeTime": 1514860170946,
+            "contentHash": "93e23ccf74619c0f0f7bf710717b495a36a0ec3a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ev_independent_evaluation__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ev_independent_evaluation__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 938,
+            "modifiedTime": 1513995743147,
+            "changeTime": 1514860170979,
+            "contentHash": "89b224ae2703645697d2c400ffcabfc2d58aa2b3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ev_sharing_learning_approach__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ev_sharing_learning_approach__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 501,
+            "modifiedTime": 1513995743147,
+            "changeTime": 1514860171037,
+            "contentHash": "40e2b00faddc1141cf0c2b4bb40bf35120299296",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_additional_funding_due__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_additional_funding_due__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 430,
+            "modifiedTime": 1513995743148,
+            "changeTime": 1514860170937,
+            "contentHash": "1c56cd7d09f031b394a45a44b1e2d49ab2cfc039",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_additional_funding_required__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_additional_funding_required__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 506,
+            "modifiedTime": 1513995743148,
+            "changeTime": 1514860170966,
+            "contentHash": "e09b9c2cbfaca5f774af09368f904cba1350e83e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_additional_funding_secured__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_additional_funding_secured__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 903,
+            "modifiedTime": 1513995743148,
+            "changeTime": 1514860170961,
+            "contentHash": "ba48539c361f97b1737b08ba197c567610dcbbaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_alternative_overhead_spend__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_alternative_overhead_spend__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 503,
+            "modifiedTime": 1513995743149,
+            "changeTime": 1514860171025,
+            "contentHash": "7ca40e1fb75df9e6232d7450b6e3346d2ee101af",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_alternative_service_spend__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_alternative_service_spend__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 481,
+            "modifiedTime": 1513995743149,
+            "changeTime": 1514860170957,
+            "contentHash": "502a41af3793ba32f236e4fd4be84cae678768ea",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_alternative_service_users_alt__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_alternative_service_users_alt__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 542,
+            "modifiedTime": 1513995743149,
+            "changeTime": 1514860171008,
+            "contentHash": "70aa60e8efe2fc083ca95c1210484493c4625036",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_alternative_service_users_engage__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_alternative_service_users_engage__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 541,
+            "modifiedTime": 1513995743149,
+            "changeTime": 1514860171016,
+            "contentHash": "1c0627dbb357dffb7777aedb5eac5800278fdb68",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_costs_covered_outcomes__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_costs_covered_outcomes__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 934,
+            "modifiedTime": 1513995743150,
+            "changeTime": 1514860170982,
+            "contentHash": "58bdc2e0469330e228a8e96e80745b794b80c4c5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_max_benefits_commissioners__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_max_benefits_commissioners__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 487,
+            "modifiedTime": 1513988349878,
+            "changeTime": 1514860170929,
+            "contentHash": "ea5314d7f7dcfe98d12fd457b00949ea11617670",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_max_benefits_government__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_max_benefits_government__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 465,
+            "modifiedTime": 1513988349878,
+            "changeTime": 1514860170958,
+            "contentHash": "78bc66972eabd66b2423cd458d3947a22d07d905",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_max_benefits_not_involved__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_max_benefits_not_involved__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 507,
+            "modifiedTime": 1513988349878,
+            "changeTime": 1514860170927,
+            "contentHash": "20368684de1d241a2bc55234511c8261233b3843",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_max_benefits_other__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_max_benefits_other__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 462,
+            "modifiedTime": 1513988349879,
+            "changeTime": 1514860171040,
+            "contentHash": "a25c94e6b3c0c7c564f8a46fcd968624bf43520d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_max_benefits_total__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_max_benefits_total__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 493,
+            "modifiedTime": 1513988349879,
+            "changeTime": 1514860170940,
+            "contentHash": "44b4cc5c1175f66f58bc25f718e789ea9e5a1cbf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_max_non_cash_commissioners__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_max_non_cash_commissioners__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 487,
+            "modifiedTime": 1513988349879,
+            "changeTime": 1514860171026,
+            "contentHash": "b140392697171afdbcd2a52e03c9f5457e87b242",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_max_non_cash_government__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_max_non_cash_government__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 465,
+            "modifiedTime": 1513988349880,
+            "changeTime": 1514860171023,
+            "contentHash": "b7ab84bc4cb90ed6c57d5c48b9ab37f9eb5e3800",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_max_non_cash_not_involved__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_max_non_cash_not_involved__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 507,
+            "modifiedTime": 1513988349880,
+            "changeTime": 1514860170931,
+            "contentHash": "c12d9bed3560fa0aa5632931db5909573901d5da",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_max_non_cash_other__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_max_non_cash_other__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 456,
+            "modifiedTime": 1513988349880,
+            "changeTime": 1514860170984,
+            "contentHash": "93169a20f125b73fa7bcf94a86b6af1fbbb92000",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_max_non_cash_total__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_max_non_cash_total__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 504,
+            "modifiedTime": 1513988349880,
+            "changeTime": 1514860171006,
+            "contentHash": "b6ef712929c2e91d3f272f271c53d1e435845eb5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_max_savings_commissioners__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_max_savings_commissioners__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 485,
+            "modifiedTime": 1513988349881,
+            "changeTime": 1514860170949,
+            "contentHash": "5497919d6ad3b50df79652d81f77de662531830c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_max_savings_government__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_max_savings_government__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 463,
+            "modifiedTime": 1513988349881,
+            "changeTime": 1514860171033,
+            "contentHash": "c244a4fdef83f5b64a1537d7835ae82640ee5aec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_max_savings_not_involved__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_max_savings_not_involved__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 505,
+            "modifiedTime": 1513988349881,
+            "changeTime": 1514860171011,
+            "contentHash": "3b451f67d2b1f34a3e05dccbe4a1ddd1a61a35b2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_max_savings_other__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_max_savings_other__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 460,
+            "modifiedTime": 1513988349881,
+            "changeTime": 1514860171015,
+            "contentHash": "0cab6231f558a12507f8396b14b409c6865a9165",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_max_savings_total__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_max_savings_total__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 490,
+            "modifiedTime": 1513988349882,
+            "changeTime": 1514860170975,
+            "contentHash": "ff2b954c604686d10c8f71d5aae9b4bf9e130bdf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_planning_progress__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_planning_progress__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 487,
+            "modifiedTime": 1513995743150,
+            "changeTime": 1514860170963,
+            "contentHash": "0fb2379d08a4d9d15f3ea312772500cce95a44d5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_planning_start_date__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_planning_start_date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 420,
+            "modifiedTime": 1513995743150,
+            "changeTime": 1514860170974,
+            "contentHash": "acdda74896afb574acd175f2f63ecb8817e1b6b3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_planning_started__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_planning_started__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 922,
+            "modifiedTime": 1513995743150,
+            "changeTime": 1514860171038,
+            "contentHash": "7f7d234e75ce124c9d39e2d901947a546fe918a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_proposed_sib_overhead_spend__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_proposed_sib_overhead_spend__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 507,
+            "modifiedTime": 1513995743151,
+            "changeTime": 1514860170998,
+            "contentHash": "bcf8b2b32c3e1de6ff9f11b4605a926afbb929e1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_proposed_sib_service_spend__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_proposed_sib_service_spend__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 485,
+            "modifiedTime": 1513995743151,
+            "changeTime": 1514860171029,
+            "contentHash": "fe2db2aa8dab7e80fd26cd92311545e8a12c2043",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_proposed_sib_service_users__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_proposed_sib_service_users__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 506,
+            "modifiedTime": 1513995743151,
+            "changeTime": 1514860171032,
+            "contentHash": "aef7599431eb1986d14e5829bc6ebc641211f5d5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_proposed_sib_service_users_success__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_proposed_sib_service_users_success__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 552,
+            "modifiedTime": 1513995743152,
+            "changeTime": 1514860171020,
+            "contentHash": "bd12c727039832af789cac1c438988d164dab682",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_saving_calculation_methodology__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_saving_calculation_methodology__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 533,
+            "modifiedTime": 1513995743152,
+            "changeTime": 1514860171031,
+            "contentHash": "37cd8063beb461facdd15e9be56ca2f831301afc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_savings_exceed_contribution__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_savings_exceed_contribution__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 994,
+            "modifiedTime": 1513995743152,
+            "changeTime": 1514860171021,
+            "contentHash": "8b0af3297cf9f4a5235e568e4c47778c99744ffb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_top_up_justification__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_top_up_justification__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 462,
+            "modifiedTime": 1513995743153,
+            "changeTime": 1514860171003,
+            "contentHash": "550f3ea3c1aff11245fca909a213e39f8bec7d97",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_value_for_money__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/fn_value_for_money__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 455,
+            "modifiedTime": 1513995743153,
+            "changeTime": 1514860171004,
+            "contentHash": "2aa48d8b64909fd86815187a6943b69811b67cb0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/identifier__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/identifier__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 336,
+            "modifiedTime": 1514857436327,
+            "changeTime": 1514860170932,
+            "contentHash": "9e56710f54223c016329c0572f8f07cc9401d25a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/iv_interventions_additional__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/iv_interventions_additional__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 503,
+            "modifiedTime": 1514075218014,
+            "changeTime": 1514860170960,
+            "contentHash": "a689ffe291f7cebf259996618644013e622fe497",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/iv_interventions_approach__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/iv_interventions_approach__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 474,
+            "modifiedTime": 1514075218014,
+            "changeTime": 1514860170964,
+            "contentHash": "0db003e827eec8c48ce138858e185b333a307ee9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/iv_interventions_outline__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/iv_interventions_outline__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 464,
+            "modifiedTime": 1514075218015,
+            "changeTime": 1514860170955,
+            "contentHash": "4c91f3f024360c0f97e7266941a65f12d9460c5a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ou_additional__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ou_additional__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 460,
+            "modifiedTime": 1514085917690,
+            "changeTime": 1514860171014,
+            "contentHash": "199b8fed9a6d77dff7b64f2130eb173189196478",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ou_attributable__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ou_attributable__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 465,
+            "modifiedTime": 1514085917690,
+            "changeTime": 1514860171002,
+            "contentHash": "6fdb50cbb7b352badb5f1c34ec5f7b5118178dd4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ou_justification__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ou_justification__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 462,
+            "modifiedTime": 1514085917690,
+            "changeTime": 1514860170991,
+            "contentHash": "6a978ca5b53829d59020117946320c7487f63f71",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ou_outcomes__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ou_outcomes__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 573,
+            "modifiedTime": 1514084167076,
+            "changeTime": 1514860170981,
+            "contentHash": "8a102a845598e9fd997d29bded634a13bae258ea",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ou_payment_determination__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ou_payment_determination__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 468,
+            "modifiedTime": 1514085917691,
+            "changeTime": 1514860171019,
+            "contentHash": "f8290939b7863883440403fe45c4c3cb6e7c6c20",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ou_perverse_incentives__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ou_perverse_incentives__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 484,
+            "modifiedTime": 1514085917691,
+            "changeTime": 1514860170999,
+            "contentHash": "5f607be8ac37b4ff0c68905707df852d487dee3e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ou_relate__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ou_relate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 447,
+            "modifiedTime": 1514085917691,
+            "changeTime": 1514860170997,
+            "contentHash": "9b12aedf1863472abde4111f3492762f30418dc9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ov_applicant_organisation_name__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ov_applicant_organisation_name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 506,
+            "modifiedTime": 1513988349882,
+            "changeTime": 1514860170994,
+            "contentHash": "62407d9a2f3f2857246daf47b4bfd4a55a06c86e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ov_organisation_type__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ov_organisation_type__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1299,
+            "modifiedTime": 1513988349883,
+            "changeTime": 1514860171009,
+            "contentHash": "abf1ec8973f3d549ed3efaa8c423b035d8b8cb7c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ov_payments_end_date__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ov_payments_end_date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 442,
+            "modifiedTime": 1513988349883,
+            "changeTime": 1514860170978,
+            "contentHash": "f2ee1407b93c8a2705b9dcfb3fc43a2ea5b6c644",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ov_project_name__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ov_project_name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 457,
+            "modifiedTime": 1513988349883,
+            "changeTime": 1514860170986,
+            "contentHash": "0623e61f3c5d56387ba40c578004baa2aaf9ddaa",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ov_project_summary__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ov_project_summary__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 455,
+            "modifiedTime": 1513988349884,
+            "changeTime": 1514860171035,
+            "contentHash": "39b5b0385bc52567074bb9e2d3acc96657cb037b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ov_section_status__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ov_section_status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 870,
+            "modifiedTime": 1514075218015,
+            "changeTime": 1514860170947,
+            "contentHash": "a7d292c9079d1012bcd3149203ceb89eb687d2a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ov_services_end_date__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ov_services_end_date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 437,
+            "modifiedTime": 1513988349884,
+            "changeTime": 1514860170944,
+            "contentHash": "f4b8dd77e4f6d1cea7793667cd5913d6d74070c8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ov_services_start_date__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/ov_services_start_date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 440,
+            "modifiedTime": 1513988349884,
+            "changeTime": 1514860170988,
+            "contentHash": "e9fee1ec000914c1191952e6ad7149803a5d181c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/su_age_groups__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/su_age_groups__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1116,
+            "modifiedTime": 1514075218016,
+            "changeTime": 1514860170971,
+            "contentHash": "4628c3451e04a848597cc62a8faf2025ce8c4955",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/su_age_groups_specifics__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/su_age_groups_specifics__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2215,
+            "modifiedTime": 1514075218016,
+            "changeTime": 1514860170989,
+            "contentHash": "c0436190d1664c8ee2efbe2f62abb35fc24ab0a6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/su_drop_out_approach__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/su_drop_out_approach__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 484,
+            "modifiedTime": 1514075218016,
+            "changeTime": 1514860170925,
+            "contentHash": "16e930879a3b0a4c98004259fea5702deeabfafa",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/su_effective__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/su_effective__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 501,
+            "modifiedTime": 1514075218017,
+            "changeTime": 1514860171042,
+            "contentHash": "27c75ed4627696b60d9e2589a4192adb4e97cf35",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/su_estimation_methodology__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/su_estimation_methodology__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 504,
+            "modifiedTime": 1514075218018,
+            "changeTime": 1514860170977,
+            "contentHash": "2304145ee9e8ec5f1cf839b1d0ea525c550b6449",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/su_expected_users__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/su_expected_users__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 506,
+            "modifiedTime": 1514075218018,
+            "changeTime": 1514860170968,
+            "contentHash": "6512a24b5be501836cb0722120c8b0f8dd6d6ea3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/su_potential_users__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/su_potential_users__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 510,
+            "modifiedTime": 1514075218018,
+            "changeTime": 1514860171044,
+            "contentHash": "e3e7d47504c64de5db5695d887a0242fc7203639",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/su_prioritisation__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/su_prioritisation__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 532,
+            "modifiedTime": 1514075218019,
+            "changeTime": 1514860171028,
+            "contentHash": "79188f5b9184aa034e79d65a4450e39bea090e47",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/su_referral_process__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/su_referral_process__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 490,
+            "modifiedTime": 1514075218019,
+            "changeTime": 1514860170951,
+            "contentHash": "803d082635dba0b73345df7980ff6f86cac8211a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/su_research_undertaken__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/su_research_undertaken__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 499,
+            "modifiedTime": 1514075218019,
+            "changeTime": 1514860170942,
+            "contentHash": "e0a9e5c0feca48132219f57616289b7f5f8c57e5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/su_successful_users__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Full_App_1__c/fields/su_successful_users__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 546,
+            "modifiedTime": 1514075218020,
+            "changeTime": 1514860170993,
+            "contentHash": "68c7ddb77206051d15957d5679644c6df07f4beb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Outcome_1__c",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Outcome_1__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1514083923811,
+            "changeTime": 1514860170919,
+            "contentHash": "4814c3a8ba4a61d03ab775e1e4d6669c82323590",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Outcome_1__c/Form_LCF_Outcome_1__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Outcome_1__c/Form_LCF_Outcome_1__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2236,
+            "modifiedTime": 1514083632984,
+            "changeTime": 1514860170905,
+            "contentHash": "f146df57034656fb6d1237e4a663aea3d57d25d9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Outcome_1__c/fields",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Outcome_1__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1514857436329,
+            "changeTime": 1514860170919,
+            "contentHash": "135a7b26f66e84fd0fae49fa2867faa7533b1938",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Outcome_1__c/fields/application__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Outcome_1__c/fields/application__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 539,
+            "modifiedTime": 1514857436330,
+            "changeTime": 1514860170917,
+            "contentHash": "c36b56368151b7ab069fc8fe783df1b725e6cd0e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Outcome_1__c/fields/identifier__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Outcome_1__c/fields/identifier__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 336,
+            "modifiedTime": 1514851031059,
+            "changeTime": 1514860170908,
+            "contentHash": "70a254382abcdbb593017ac0cf204fde229d1682",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Outcome_1__c/fields/ou_baseline__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Outcome_1__c/fields/ou_baseline__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 536,
+            "modifiedTime": 1514083923812,
+            "changeTime": 1514860170914,
+            "contentHash": "314e5ad10df6f1e180c68e4f450b8686c27b1471",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Outcome_1__c/fields/ou_description__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Outcome_1__c/fields/ou_description__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 429,
+            "modifiedTime": 1514083923812,
+            "changeTime": 1514860170916,
+            "contentHash": "3153f9606f5a34f68d298ead5e64ad23a455a9f5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Outcome_1__c/fields/ou_full_application__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Outcome_1__c/fields/ou_full_application__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 568,
+            "modifiedTime": 1514851901450,
+            "changeTime": 1514860170913,
+            "contentHash": "77ac1b5caeef7079d3f5b26abd0022139f40ad2b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Outcome_1__c/fields/ou_payment__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Outcome_1__c/fields/ou_payment__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 459,
+            "modifiedTime": 1514083923812,
+            "changeTime": 1514860170919,
+            "contentHash": "78b7caa52d40e53da8276ee422a017d2fb85a1ab",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Outcome_1__c/fields/ou_social_impact__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Outcome_1__c/fields/ou_social_impact__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 498,
+            "modifiedTime": 1514083923813,
+            "changeTime": 1514860170911,
+            "contentHash": "beccc1a70fcfdc62d013862e7f57fe0285e4e4ad",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Outcome_1__c/fields/ou_timescale__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/objects/Form_LCF_Outcome_1__c/fields/ou_timescale__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 427,
+            "modifiedTime": 1514083923813,
+            "changeTime": 1514860170910,
+            "contentHash": "e774b6c770b04f4bde43a5523864938dc4273918",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 672,
+            "modifiedTime": 1514079011260,
+            "changeTime": 1514860171103,
+            "contentHash": "af12f2e712509649969dd4a9fb07c021dedfc44a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages/Applications.page",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages/Applications.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3366,
+            "modifiedTime": 1514855727584,
+            "changeTime": 1514860171085,
+            "contentHash": "61e2d08205d81be9c3915532a1745fb3d04f4e30",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages/Applications.page-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages/Applications.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 278,
+            "modifiedTime": 1513812188912,
+            "changeTime": 1514860171100,
+            "contentHash": "6ae5b1725858b4dc9316385ac06da451a4019990",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages/Layout.page",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages/Layout.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3572,
+            "modifiedTime": 1513982791616,
+            "changeTime": 1514860171083,
+            "contentHash": "c93d80435a207230ab2401149c4c9c2dbece416a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages/Layout.page-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages/Layout.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 272,
+            "modifiedTime": 1513795811277,
+            "changeTime": 1514860171071,
+            "contentHash": "8da595f45c6279c916b035baeccfefd97ade1ad5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages/Login.page",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages/Login.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 81,
+            "modifiedTime": 1513511731589,
+            "changeTime": 1514860171074,
+            "contentHash": "36b4f17f5df941a6b11582c4dc69fbbc3e3ef924",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages/Login.page-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages/Login.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 271,
+            "modifiedTime": 1513511694205,
+            "changeTime": 1514860171089,
+            "contentHash": "95b8084e8ce111332a0debb90acffe86027beb3b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages/New.page",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages/New.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1170,
+            "modifiedTime": 1513812247380,
+            "changeTime": 1514860171097,
+            "contentHash": "b84693ecc44d98797cb7ec4660ea7482acfda57c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages/New.page-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages/New.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 269,
+            "modifiedTime": 1513809406909,
+            "changeTime": 1514860171079,
+            "contentHash": "b78a128ed849cc4c583d2d0217ee80001e5dcf9a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages/Questions.page",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages/Questions.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 8041,
+            "modifiedTime": 1514859315586,
+            "changeTime": 1514860171103,
+            "contentHash": "2f562bd2e261d8e2e3dd45932b749eb33c2f5546",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages/Questions.page-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages/Questions.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 275,
+            "modifiedTime": 1513461485674,
+            "changeTime": 1514860171093,
+            "contentHash": "e47898cdb653c2c1f5195f1a2620e7dc28a114ab",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages/Register.page",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages/Register.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 84,
+            "modifiedTime": 1513511737036,
+            "changeTime": 1514860171077,
+            "contentHash": "c8621cb48368e551953b9d0e264593772018fc71",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages/Register.page-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages/Register.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 274,
+            "modifiedTime": 1513511698915,
+            "changeTime": 1514860171095,
+            "contentHash": "38f11de8409c5846657956f36d1d1f49aa243bad",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages/Sections.page",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages/Sections.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2404,
+            "modifiedTime": 1514855876073,
+            "changeTime": 1514860171080,
+            "contentHash": "f090ec9b96eda1f6f44269cef300f4b9c37a730f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages/Sections.page-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages/Sections.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 274,
+            "modifiedTime": 1513811164048,
+            "changeTime": 1514860171099,
+            "contentHash": "be73c5b48009e9b6470163b0a83711c1391adfeb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages/Start.page",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages/Start.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1389,
+            "modifiedTime": 1514856089597,
+            "changeTime": 1514860171075,
+            "contentHash": "57c42712f32824aebaba552cb825e07e21250c0d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages/Start.page-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages/Start.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 271,
+            "modifiedTime": 1514067728708,
+            "changeTime": 1514860171087,
+            "contentHash": "eb09ad1cda0188bbe5dd5a64e4e0304b26d7bc6f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages/Summary.page",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages/Summary.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4844,
+            "modifiedTime": 1514076748104,
+            "changeTime": 1514860171092,
+            "contentHash": "690de3cfbe54ead78b2f0f0cd2384c1d7c2a0657",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages/Summary.page-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/pages/Summary.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 273,
+            "modifiedTime": 1513458627731,
+            "changeTime": 1514860171072,
+            "contentHash": "3856ada701728ead8b247e41dd0294904b32b3a3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/profiles",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1514078821999,
+            "changeTime": 1514860171065,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 36423,
+            "modifiedTime": 1514857436440,
+            "changeTime": 1514860171060,
+            "contentHash": "e31108027156de5c809e7169bc806755b1d6da47",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 22843,
+            "modifiedTime": 1514857436455,
+            "changeTime": 1514860171065,
+            "contentHash": "0a2df8b7689ba0dbd929fb1daa1cf7ab270f65b5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 22843,
+            "modifiedTime": 1514857436477,
+            "changeTime": 1514860171062,
+            "contentHash": "0a2df8b7689ba0dbd929fb1daa1cf7ab270f65b5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 23181,
+            "modifiedTime": 1514857436493,
+            "changeTime": 1514860171064,
+            "contentHash": "be0f384974783f016d0f718e2339a02db1480e83",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 928,
+            "modifiedTime": 1514086026245,
+            "changeTime": 1514860170901,
+            "contentHash": "e6fc93416cd611620813681fb3d7c941c0814439",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/config.resource",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/config.resource",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1890,
+            "modifiedTime": 1514086014503,
+            "changeTime": 1514860170878,
+            "contentHash": "d65123341f9567712bea8f4d2d26bddcaf433097",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/config.resource-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/config.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1513515081619,
+            "changeTime": 1514860170879,
+            "contentHash": "51369bd7fabb81dc944800e1484a218dded7f4f8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/css_core.resource",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/css_core.resource",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3750,
+            "modifiedTime": 1514073948294,
+            "changeTime": 1514860170893,
+            "contentHash": "e54bb9e41f934e8f8becaa808dad9409f771bb94",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/css_core.resource-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/css_core.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 202,
+            "modifiedTime": 1513455319646,
+            "changeTime": 1514860170875,
+            "contentHash": "be68fbce8f2f696b1c499d3e6d3701486d1f1672",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/css_govuk_core.resource",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/css_govuk_core.resource",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 342762,
+            "modifiedTime": 1513811977277,
+            "changeTime": 1514860170819,
+            "contentHash": "955878dc4398be4cc4b09ad7a90c871226e52d0c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/css_govuk_core.resource-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/css_govuk_core.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 202,
+            "modifiedTime": 1513415696146,
+            "changeTime": 1514860170886,
+            "contentHash": "be68fbce8f2f696b1c499d3e6d3701486d1f1672",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 896,
+            "modifiedTime": 1513800798508,
+            "changeTime": 1514860170871,
+            "contentHash": "7ea2200bfc7e0d6c5a3900339006eb6003d4c2e8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/apple-touch-icon-120x120.png",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/apple-touch-icon-120x120.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3078,
+            "modifiedTime": 1484731800000,
+            "changeTime": 1514860170836,
+            "contentHash": "6edbe37dd37db4a87fca2cbd2a68c61f8f939f5f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/apple-touch-icon-152x152.png",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/apple-touch-icon-152x152.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3848,
+            "modifiedTime": 1484731800000,
+            "changeTime": 1514860170851,
+            "contentHash": "6b72b0546bbd1dce03bc19cfd119e7d9ed048027",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/apple-touch-icon-167x167.png",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/apple-touch-icon-167x167.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4230,
+            "modifiedTime": 1506487974000,
+            "changeTime": 1514860170865,
+            "contentHash": "750482f5c5c91499368446791e3db45df90bd372",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/apple-touch-icon-180x180.png",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/apple-touch-icon-180x180.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3503,
+            "modifiedTime": 1506487974000,
+            "changeTime": 1514860170857,
+            "contentHash": "f02b551f1af5d4ef5bc4aee07da9a6e36a3f9037",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/apple-touch-icon-60x60.png",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/apple-touch-icon-60x60.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1269,
+            "modifiedTime": 1484731800000,
+            "changeTime": 1514860170868,
+            "contentHash": "4c4935ec0a996ea3c8d01f7d045183db52c9f02a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/apple-touch-icon-76x76.png",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/apple-touch-icon-76x76.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2037,
+            "modifiedTime": 1484731800000,
+            "changeTime": 1514860170859,
+            "contentHash": "d16acd11a1395bfbfe97c871d56d1a1169f23a87",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/apple-touch-icon.png",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/apple-touch-icon.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2875,
+            "modifiedTime": 1506487974000,
+            "changeTime": 1514860170844,
+            "contentHash": "03c4dc6f7a88c5b7c28564a0c01d2a334861c397",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/close.png",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/close.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 152,
+            "modifiedTime": 1506487974000,
+            "changeTime": 1514860170871,
+            "contentHash": "7b1a19781547f8039a803dfe67a062c4f0286f2c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/favicon.ico",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/favicon.ico",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4598,
+            "modifiedTime": 1484731800000,
+            "changeTime": 1514860170830,
+            "contentHash": "64cbf9d9a7828aadcfc3409d11f344b4db0e1d45",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/gov.uk_logotype_crown-1x.png",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/gov.uk_logotype_crown-1x.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 952,
+            "modifiedTime": 1506487974000,
+            "changeTime": 1514860170847,
+            "contentHash": "fecb2af5f9279bb7d4fd7a7675b2786ad032043a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/gov.uk_logotype_crown.png",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/gov.uk_logotype_crown.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1415,
+            "modifiedTime": 1506487974000,
+            "changeTime": 1514860170870,
+            "contentHash": "3475804a889ebab77784f98ef882b9a1383f5ebb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/gov.uk_logotype_crown.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/gov.uk_logotype_crown.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3125,
+            "modifiedTime": 1484731800000,
+            "changeTime": 1514860170862,
+            "contentHash": "a0f3fc3723c81b96e6536e155271ad7ba2052f3a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/gov.uk_logotype_crown_invert.png",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/gov.uk_logotype_crown_invert.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1692,
+            "modifiedTime": 1484731800000,
+            "changeTime": 1514860170826,
+            "contentHash": "54b137406434e152fe299fec593e2a3c9b2c4497",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/gov.uk_logotype_crown_invert_trans.png",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/gov.uk_logotype_crown_invert_trans.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1049,
+            "modifiedTime": 1484731800000,
+            "changeTime": 1514860170848,
+            "contentHash": "61d80d9443bc10fda38f0dfccbd0961af3047e66",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/govuk-crest-2x.png",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/govuk-crest-2x.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 8884,
+            "modifiedTime": 1506487974000,
+            "changeTime": 1514860170860,
+            "contentHash": "719b8051e48a2bc884245826177bad5c4b413824",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/govuk-crest-ie.png",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/govuk-crest-ie.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5244,
+            "modifiedTime": 1506487974000,
+            "changeTime": 1514860170849,
+            "contentHash": "d745e6681a8d3c3b5cb2adfb3851b307978537b0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/govuk-crest.png",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/govuk-crest.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3584,
+            "modifiedTime": 1506487974000,
+            "changeTime": 1514860170828,
+            "contentHash": "42a8d445a3446dee17cc6684ea055703e490bf5e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/icon-arrow-left.png",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/icon-arrow-left.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 244,
+            "modifiedTime": 1484636214000,
+            "changeTime": 1514860170840,
+            "contentHash": "c671771377935bab412d1559624faf73c3a01861",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/icon-important-2x.png",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/icon-important-2x.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 918,
+            "modifiedTime": 1510545052000,
+            "changeTime": 1514860170841,
+            "contentHash": "e9243eb5c0627848897f5eb9461bf36095f16ee2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/icon-important.png",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/icon-important.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 415,
+            "modifiedTime": 1510545052000,
+            "changeTime": 1514860170832,
+            "contentHash": "f40374fcde503dc2f6c6f5794c1fc3a4283283db",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/open-government-licence.png",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/open-government-licence.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 761,
+            "modifiedTime": 1506487974000,
+            "changeTime": 1514860170853,
+            "contentHash": "402b5e6316000bdad290aca5f41258eac40eae1f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/open-government-licence_2x.png",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/open-government-licence_2x.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 504,
+            "modifiedTime": 1506487974000,
+            "changeTime": 1514860170834,
+            "contentHash": "c73e706ce43903fe250df8538901a9973d40b762",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/opengraph-image.png",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/opengraph-image.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 15380,
+            "modifiedTime": 1484731800000,
+            "changeTime": 1514860170855,
+            "contentHash": "14479d9c7986f380720c5a3497c61eee62bbe545",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/separator-2x.png",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/separator-2x.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 201,
+            "modifiedTime": 1484636214000,
+            "changeTime": 1514860170863,
+            "contentHash": "d05187a8d57b54584513955bb3a5c1cd99bf8df5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/separator.png",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images/separator.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 145,
+            "modifiedTime": 1484636214000,
+            "changeTime": 1514860170866,
+            "contentHash": "fd1cc9df3b430adc6d2ad31ca7bd9368a55d9de3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images.resource-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/images.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 247,
+            "modifiedTime": 1513799810600,
+            "changeTime": 1514860170818,
+            "contentHash": "66fa478998d767c500df03e8a03d5aafc24feaa3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/lcf_full_app_declaration_1.resource",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/lcf_full_app_declaration_1.resource",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 257,
+            "modifiedTime": 1514113178480,
+            "changeTime": 1514860170895,
+            "contentHash": "81e5e8608ea1372a620fd1373338d7ca53c74487",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/lcf_full_app_declaration_1.resource-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/lcf_full_app_declaration_1.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1513993274583,
+            "changeTime": 1514860170899,
+            "contentHash": "51369bd7fabb81dc944800e1484a218dded7f4f8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/lcf_full_app_evaluation_1.resource",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/lcf_full_app_evaluation_1.resource",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1136,
+            "modifiedTime": 1514113174434,
+            "changeTime": 1514860170811,
+            "contentHash": "433cd273e82e042cdfb0a2e73b6b5a56fc539028",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/lcf_full_app_evaluation_1.resource-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/lcf_full_app_evaluation_1.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1513992330238,
+            "changeTime": 1514860170901,
+            "contentHash": "51369bd7fabb81dc944800e1484a218dded7f4f8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/lcf_full_app_financials_1.resource",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/lcf_full_app_financials_1.resource",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 6512,
+            "modifiedTime": 1514113170561,
+            "changeTime": 1514860170898,
+            "contentHash": "d73a84fd5a9276104b38e467fb66baf3c29870bf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/lcf_full_app_financials_1.resource-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/lcf_full_app_financials_1.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1513986602223,
+            "changeTime": 1514860170896,
+            "contentHash": "51369bd7fabb81dc944800e1484a218dded7f4f8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/lcf_full_app_interventions_1.resource",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/lcf_full_app_interventions_1.resource",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1015,
+            "modifiedTime": 1514113166900,
+            "changeTime": 1514860170821,
+            "contentHash": "38a633bb1df8bb31321a3ede11f690bb0db44642",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/lcf_full_app_interventions_1.resource-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/lcf_full_app_interventions_1.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1514020439811,
+            "changeTime": 1514860170876,
+            "contentHash": "51369bd7fabb81dc944800e1484a218dded7f4f8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/lcf_full_app_issue_1.resource",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/lcf_full_app_issue_1.resource",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 137,
+            "modifiedTime": 1514113162800,
+            "changeTime": 1514860170816,
+            "contentHash": "4a8eda368b5b081ee6259393716e6db8c2e1998c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/lcf_full_app_issue_1.resource-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/lcf_full_app_issue_1.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1514086031337,
+            "changeTime": 1514860170882,
+            "contentHash": "51369bd7fabb81dc944800e1484a218dded7f4f8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/lcf_full_app_outcomes_1.resource",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/lcf_full_app_outcomes_1.resource",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2613,
+            "modifiedTime": 1514843506888,
+            "changeTime": 1514860170889,
+            "contentHash": "dd47bc6ff4e7592f24d16c3403f03a61d2e4730d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/lcf_full_app_outcomes_1.resource-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/lcf_full_app_outcomes_1.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1514021117328,
+            "changeTime": 1514860170873,
+            "contentHash": "51369bd7fabb81dc944800e1484a218dded7f4f8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/lcf_full_app_outcomes_child_1.resource",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/lcf_full_app_outcomes_child_1.resource",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 778,
+            "modifiedTime": 1514857654932,
+            "changeTime": 1514860170812,
+            "contentHash": "b0ff8e7ce136f55ff22f86353c44ca9db510d4c2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/lcf_full_app_outcomes_child_1.resource-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/lcf_full_app_outcomes_child_1.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1514082010483,
+            "changeTime": 1514860170888,
+            "contentHash": "51369bd7fabb81dc944800e1484a218dded7f4f8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/lcf_full_app_overview_1.resource",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/lcf_full_app_overview_1.resource",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1055,
+            "modifiedTime": 1514857122368,
+            "changeTime": 1514860170884,
+            "contentHash": "01d8639c88b8f0f41e486b675cf3067174c134f2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/lcf_full_app_overview_1.resource-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/lcf_full_app_overview_1.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1513954519194,
+            "changeTime": 1514860170881,
+            "contentHash": "51369bd7fabb81dc944800e1484a218dded7f4f8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/lcf_full_app_users_1.resource",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/lcf_full_app_users_1.resource",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2413,
+            "modifiedTime": 1514113153184,
+            "changeTime": 1514860170891,
+            "contentHash": "8ed610ff48817441a94428ee6e2b8d87982a0e8d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/lcf_full_app_users_1.resource-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/staticresources/lcf_full_app_users_1.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 210,
+            "modifiedTime": 1514018467194,
+            "changeTime": 1514860170815,
+            "contentHash": "51369bd7fabb81dc944800e1484a218dded7f4f8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/tabs",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1514857436353,
+            "changeTime": 1514860170745,
+            "contentHash": "2518721dc26f41cdd7056ce0873d77b988057fbf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/tabs/Application__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/tabs/Application__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 221,
+            "modifiedTime": 1514850834826,
+            "changeTime": 1514860170742,
+            "contentHash": "cb1b1ee11491de89d1f86e7aad6aae345dd7a2f5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/tabs/Form_LCF_Full_App_1__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/tabs/Form_LCF_Full_App_1__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 229,
+            "modifiedTime": 1514850834827,
+            "changeTime": 1514860170744,
+            "contentHash": "9ff1a260e3ae7df8d22186bf3afdb41420f59c9e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/tabs/Form_LCF_Outcome_1__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0/force-app/main/default/tabs/Form_LCF_Outcome_1__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 225,
+            "modifiedTime": 1514857436353,
+            "changeTime": 1514860170743,
+            "contentHash": "02af176c2b3fe640302ea93f03571c71708827e2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/luke/Desktop/git/lcf-web-app-2.0",
+        {
+            "state": "n",
+            "sourcePath": "/Users/luke/Desktop/git/lcf-web-app-2.0",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1514860249399,
+            "changeTime": 1514860249399,
+            "contentHash": "8b83a6fc8ebc85fbcc0a9655c8a88ee3e37f3e95",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
