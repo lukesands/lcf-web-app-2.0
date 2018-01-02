@@ -1,0 +1,7 @@
+{
+    "orgName": "lcf-co-ls",
+    "edition": "Developer",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}

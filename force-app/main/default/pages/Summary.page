@@ -1,0 +1,99 @@
+<apex:page controller="SummaryController" standardStylesheets="false" docType="html-5.0">
+
+    <apex:composition template="Layout">
+        <apex:define name="breadcrumbs">
+            <div class="breadcrumbs">
+                <ol>
+                    <li><apex:outputLink value="{!$Page.applications}">Applications</apex:outputLink></li>
+                    <li>
+                        <apex:outputLink value="{!$Page.sections}">
+                            {!form.title}
+                            <apex:param name="form" value="{!form.id}"/>
+                            <apex:param name="id" value="{!application['identifier__c']}"/>
+                        </apex:outputLink>
+                    </li>
+                    <li aria-current="page">{!section.title}</li>
+                </ol>
+            </div>
+        </apex:define>
+        <apex:define name="main">
+
+            <a href="#" onclick="window.history.go(-1); return false;" class="link-back">Back</a>
+            <h1 class="heading-xlarge">
+                <span class="heading-secondary">{!section.title}</span>
+                Check your answers
+            </h1>
+            <br />
+
+            <div class="grid-row">
+                <div class="column-two-thirds">
+                    <table class="sections">
+                        <tbody class="summary">
+                            <tr>
+                                <th class="question" valign="top">
+                                    What is the name of the lead contact?
+                                </th>
+                                <td valign="top">
+                                   Luke Sands
+                                </td>
+                                <td class="numeric" valign="top">
+                                    <apex:outputLink value="{!$Page.sections}">
+                                        Change
+                                        <apex:param name="form" value="{!form.id}"/>
+                                        <apex:param name="id" value="{!application['identifier__c']}"/>
+                                    </apex:outputLink>
+                                </td>
+                            </tr>
+                            <tr>
+                                <th class="question" valign="top">
+                                    What is the name of the second contact?
+                                </th>
+                                <td valign="top">
+                                   John Smith
+                                </td>
+                                <td class="numeric" valign="top">
+                                    <apex:outputLink value="{!$Page.sections}">
+                                        Change
+                                        <apex:param name="form" value="{!form.id}"/>
+                                        <apex:param name="id" value="{!application['identifier__c']}"/>
+                                    </apex:outputLink>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <br /><br />
+                    <table class="sections">
+                        <tbody class="summary">
+                            <tr colspan="3">
+                                <th class="question" colspan="3" valign="top">
+                                    What is the name of the second contact?
+                                </th>
+                            </tr>
+                            <tr>
+                                <th class="question" valign="top">
+                                    What is the name of the second contact?
+                                </th>
+                                <td valign="top">
+                                   John Smith
+                                </td>
+                                <td class="numeric" valign="top">
+                                    <apex:outputLink value="{!$Page.sections}">
+                                        Change
+                                        <apex:param name="form" value="{!form.id}"/>
+                                        <apex:param name="id" value="{!application['identifier__c']}"/>
+                                    </apex:outputLink>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <br /><br />
+            <apex:form>
+                <apex:commandButton value="Mark section as complete and continue" action="{!complete}" styleClass="button" />
+                <br /><br />
+                <apex:commandLink value="Save and come back later" action="{!saveExit}" />
+            </apex:form>
+        </apex:define>
+    </apex:composition>
+</apex:page>
